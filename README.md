@@ -1,2 +1,2 @@
 # mtm6130-test
-This is a test repo for mtm6130
+This is a test repository for mtm6130
